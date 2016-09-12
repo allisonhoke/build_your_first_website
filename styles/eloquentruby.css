@@ -1,0 +1,38 @@
+h1 {
+  border: double;
+  background-color: beige;
+}
+
+nav a:hover {
+  color:#32673f;
+}
+
+body {
+    background-color: lavender;
+    font-family: sans-serif;
+}
+
+img {
+  float: left;
+  height: 300px;
+}
+
+li {
+  list-style-type: none;
+  text-align: right;
+}
+
+section {
+  clear: both;
+}
+
+article {
+  background-color: purple;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  border: solid;
+  border-color: purple;
+}
